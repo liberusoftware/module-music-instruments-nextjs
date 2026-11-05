@@ -1,0 +1,15 @@
+{
+  "repository": "module-music-instruments-nextjs",
+  "capabilityKey": "liberusoftware/music-instruments",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-music-instruments-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/music/nextjs/instruments.md",
+  "presentationPlan": "projects/music/nextjs/instruments.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "music"
+  ]
+}
